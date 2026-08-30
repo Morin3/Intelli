@@ -21,7 +21,7 @@ setup(
     },
     python_requires='>=3.6',
     install_requires=[
-        "python-dotenv==1.0.1", "networkx==3.2.1",
+        "python-dotenv==1.2.2", "networkx==3.2.1",
     ],
     extras_require={
         "visual": ["matplotlib==3.6.0"],
